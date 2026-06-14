@@ -8,7 +8,7 @@ st.set_page_config(page_title="Sales Agent Performance Dashboard", layout="wide"
 # ── Load Data ──
 @st.cache_data
 def load_data():
-    df = pd.read_csv("sales_data.csv")
+     df = pd.read_csv("sales_data.csv")
     return df
 
 df = load_data()
