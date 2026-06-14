@@ -6,6 +6,17 @@ import os
 
 st.set_page_config(page_title="Sales Agent Performance Dashboard", layout="wide", page_icon="📊")
 
+st.markdown("""
+<style>
+[data-testid="stSidebar"] {background-color: #1F4E79;}
+[data-testid="stSidebar"] * {color: white !important;}
+[data-testid="stSidebar"] .stMultiSelect [data-baseweb="tag"] {background-color: #C0392B !important;}
+[data-testid="stSidebar"] label {font-weight: 600; font-size: 13px;}
+[data-testid="stSidebar"] h1 {font-size: 18px; border-bottom: 1px solid rgba(255,255,255,0.3); padding-bottom: 10px;}
+.metric-card {background: #f8f9fa; border-radius: 10px; padding: 15px; border-left: 4px solid #C0392B;}
+</style>
+""", unsafe_allow_html=True)
+
 @st.cache_data
 def load_data():
     path = os.path.join(os.path.dirname(__file__), "sales_data.csv")
@@ -17,10 +28,36 @@ df = load_data()
 month_order = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"]
 df["Month"] = pd.Categorical(df["Month"], categories=month_order, ordered=True)
 
-st.sidebar.title("Filters")
-selected_region = st.sidebar.multiselect("Region", options=df["Region"].unique(), default=list(df["Region"].unique()))
-selected_month = st.sidebar.multiselect("Month", options=month_order, default=month_order)
-selected_agent = st.sidebar.multiselect("Agent", options=df["Agent"].unique(), default=list(df["Agent"].unique()))
+# ── Sidebar ──
+with st.sidebar:
+    st.title("🔍 Filters")
+    st.markdown("---")
+
+    st.markdown("**🗺 Region**")
+    all_regions = sorted(df["Region"].unique())
+    select_all_regions = st.checkbox("Select all regions", value=True, key="reg")
+    if select_all_regions:
+        selected_region = all_regions
+    else:
+        selected_region = st.multiselect("", options=all_regions, default=all_regions, label_visibility="collapsed")
+
+    st.markdown("**📅 Month**")
+    select_all_months = st.checkbox("Select all months", value=True, key="mon")
+    if select_all_months:
+        selected_month = month_order
+    else:
+        selected_month = st.multiselect("", options=month_order, default=month_order, label_visibility="collapsed")
+
+    st.markdown("**👤 Agent**")
+    all_agents = sorted(df["Agent"].unique())
+    select_all_agents = st.checkbox("Select all agents", value=True, key="agt")
+    if select_all_agents:
+        selected_agent = all_agents
+    else:
+        selected_agent = st.multiselect("", options=all_agents, default=all_agents, label_visibility="collapsed")
+
+    st.markdown("---")
+    st.caption("📊 Sales Agent KPI Tracker\nBy Farah Annisa")
 
 filtered = df[
     df["Region"].isin(selected_region) &
@@ -28,10 +65,12 @@ filtered = df[
     df["Agent"].isin(selected_agent)
 ]
 
+# ── Header ──
 st.title("📊 Sales Agent Performance Dashboard")
 st.caption("Banca ASNB — Agent KPI Tracker | Anonymised Demo Dataset")
 st.divider()
 
+# ── KPI Cards ──
 col1, col2, col3, col4 = st.columns(4)
 total_sales = filtered["Actual Sales (RM)"].sum()
 total_target = filtered["Target (RM)"].sum()
@@ -45,6 +84,7 @@ col4.metric("🏆 Top Agent", top_agent)
 
 st.divider()
 
+# ── Row 1 ──
 col_a, col_b = st.columns(2)
 
 with col_a:
@@ -66,6 +106,7 @@ with col_b:
     fig2.update_layout(height=350, margin=dict(t=10, b=10), coloraxis_showscale=False)
     st.plotly_chart(fig2, use_container_width=True)
 
+# ── Row 2 ──
 col_c, col_d = st.columns(2)
 
 with col_c:
@@ -87,6 +128,7 @@ with col_d:
     fig4.update_layout(height=350, margin=dict(t=10, b=10))
     st.plotly_chart(fig4, use_container_width=True)
 
+# ── Table ──
 st.divider()
 st.subheader("📋 Agent Detail Table")
 summary = filtered.groupby(["Agent", "Region"]).agg(
@@ -114,5 +156,4 @@ st.dataframe(styled, use_container_width=True, height=400)
 
 csv = summary.to_csv(index=False)
 st.download_button("⬇️ Download Agent Report (CSV)", csv, "agent_report.csv", "text/csv")
-
 st.caption("Dashboard built with Python · pandas · Plotly · Streamlit | By Farah Annisa")
