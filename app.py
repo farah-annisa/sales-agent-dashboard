@@ -2,13 +2,14 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
+import os
 
 st.set_page_config(page_title="Sales Agent Performance Dashboard", layout="wide", page_icon="📊")
 
-# ── Load Data ──
 @st.cache_data
 def load_data():
-     df = pd.read_csv("sales_data.csv")
+    path = os.path.join(os.path.dirname(__file__), "sales_data.csv")
+    df = pd.read_csv(path)
     return df
 
 df = load_data()
@@ -16,12 +17,10 @@ df = load_data()
 month_order = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"]
 df["Month"] = pd.Categorical(df["Month"], categories=month_order, ordered=True)
 
-# ── Sidebar ──
-st.sidebar.image("https://img.icons8.com/color/96/combo-chart.png", width=60)
 st.sidebar.title("Filters")
-selected_region = st.sidebar.multiselect("Region", options=df["Region"].unique(), default=df["Region"].unique())
+selected_region = st.sidebar.multiselect("Region", options=df["Region"].unique(), default=list(df["Region"].unique()))
 selected_month = st.sidebar.multiselect("Month", options=month_order, default=month_order)
-selected_agent = st.sidebar.multiselect("Agent", options=df["Agent"].unique(), default=df["Agent"].unique())
+selected_agent = st.sidebar.multiselect("Agent", options=df["Agent"].unique(), default=list(df["Agent"].unique()))
 
 filtered = df[
     df["Region"].isin(selected_region) &
@@ -29,12 +28,10 @@ filtered = df[
     df["Agent"].isin(selected_agent)
 ]
 
-# ── Header ──
 st.title("📊 Sales Agent Performance Dashboard")
 st.caption("Banca ASNB — Agent KPI Tracker | Anonymised Demo Dataset")
 st.divider()
 
-# ── KPI Cards ──
 col1, col2, col3, col4 = st.columns(4)
 total_sales = filtered["Actual Sales (RM)"].sum()
 total_target = filtered["Target (RM)"].sum()
@@ -48,7 +45,6 @@ col4.metric("🏆 Top Agent", top_agent)
 
 st.divider()
 
-# ── Row 1: Sales Trend + Achievement by Region ──
 col_a, col_b = st.columns(2)
 
 with col_a:
@@ -70,7 +66,6 @@ with col_b:
     fig2.update_layout(height=350, margin=dict(t=10, b=10), coloraxis_showscale=False)
     st.plotly_chart(fig2, use_container_width=True)
 
-# ── Row 2: Top Agents + Status Distribution ──
 col_c, col_d = st.columns(2)
 
 with col_c:
@@ -92,7 +87,6 @@ with col_d:
     fig4.update_layout(height=350, margin=dict(t=10, b=10))
     st.plotly_chart(fig4, use_container_width=True)
 
-# ── Row 3: Agent Detail Table ──
 st.divider()
 st.subheader("📋 Agent Detail Table")
 summary = filtered.groupby(["Agent", "Region"]).agg(
@@ -114,11 +108,10 @@ def highlight_achievement(val):
     else:
         return "background-color: #FDEDEC; color: #922B21"
 
-styled = summary.style.applymap(highlight_achievement, subset=["Avg Achievement (%)"])\
+styled = summary.style.map(highlight_achievement, subset=["Avg Achievement (%)"])\
     .format({"Total Sales (RM)": "RM {:,.0f}", "Total Target (RM)": "RM {:,.0f}", "Avg Achievement (%)": "{:.1f}%"})
 st.dataframe(styled, use_container_width=True, height=400)
 
-# ── Download ──
 csv = summary.to_csv(index=False)
 st.download_button("⬇️ Download Agent Report (CSV)", csv, "agent_report.csv", "text/csv")
 
