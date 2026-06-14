@@ -1,0 +1,181 @@
+Agent,Region,Month,Target (RM),Actual Sales (RM),Accounts Opened,Customer Visits,Achievement (%),Status
+Ahmad Razif,Kuala Lumpur,Jan,95795,71715,25,52,74.9,Below Target
+Ahmad Razif,Kuala Lumpur,Feb,95795,77878,26,63,81.3,Below Target
+Ahmad Razif,Kuala Lumpur,Mar,95795,59023,31,78,61.6,Below Target
+Ahmad Razif,Kuala Lumpur,Apr,95795,84290,32,79,88.0,Below Target
+Ahmad Razif,Kuala Lumpur,May,95795,82043,7,56,85.6,Below Target
+Ahmad Razif,Kuala Lumpur,Jun,95795,98216,25,28,102.5,Achieved
+Ahmad Razif,Kuala Lumpur,Jul,95795,61839,8,44,64.6,Below Target
+Ahmad Razif,Kuala Lumpur,Aug,95795,122228,13,45,127.6,Exceeded
+Ahmad Razif,Kuala Lumpur,Sep,95795,64026,24,47,66.8,Below Target
+Ahmad Razif,Kuala Lumpur,Oct,95795,86992,11,63,90.8,Achieved
+Ahmad Razif,Kuala Lumpur,Nov,95795,90681,39,33,94.7,Achieved
+Ahmad Razif,Kuala Lumpur,Dec,95795,83700,8,21,87.4,Below Target
+Siti Norzah,Selangor,Jan,80860,72580,8,73,89.8,Below Target
+Siti Norzah,Selangor,Feb,80860,50288,22,45,62.2,Below Target
+Siti Norzah,Selangor,Mar,80860,73972,14,55,91.5,Achieved
+Siti Norzah,Selangor,Apr,80860,82358,19,27,101.9,Achieved
+Siti Norzah,Selangor,May,80860,80804,25,35,99.9,Achieved
+Siti Norzah,Selangor,Jun,80860,90815,28,45,112.3,Exceeded
+Siti Norzah,Selangor,Jul,80860,103151,33,34,127.6,Exceeded
+Siti Norzah,Selangor,Aug,80860,57870,29,26,71.6,Below Target
+Siti Norzah,Selangor,Sep,80860,72481,5,63,89.6,Below Target
+Siti Norzah,Selangor,Oct,80860,65128,15,70,80.5,Below Target
+Siti Norzah,Selangor,Nov,80860,88525,39,54,109.5,Achieved
+Siti Norzah,Selangor,Dec,80860,92171,9,61,114.0,Exceeded
+Muhd Hafiz,Johor,Jan,134886,114778,32,26,85.1,Below Target
+Muhd Hafiz,Johor,Feb,134886,161192,16,53,119.5,Exceeded
+Muhd Hafiz,Johor,Mar,134886,89940,27,43,66.7,Below Target
+Muhd Hafiz,Johor,Apr,134886,143808,26,46,106.6,Achieved
+Muhd Hafiz,Johor,May,134886,133924,39,56,99.3,Achieved
+Muhd Hafiz,Johor,Jun,134886,172680,7,20,128.0,Exceeded
+Muhd Hafiz,Johor,Jul,134886,149077,18,58,110.5,Exceeded
+Muhd Hafiz,Johor,Aug,134886,84749,19,34,62.8,Below Target
+Muhd Hafiz,Johor,Sep,134886,91401,17,70,67.8,Below Target
+Muhd Hafiz,Johor,Oct,134886,83899,36,23,62.2,Below Target
+Muhd Hafiz,Johor,Nov,134886,166624,27,58,123.5,Exceeded
+Muhd Hafiz,Johor,Dec,134886,119680,33,55,88.7,Below Target
+Nurul Ain,Kuala Lumpur,Jan,86265,108693,11,78,126.0,Exceeded
+Nurul Ain,Kuala Lumpur,Feb,86265,93713,32,21,108.6,Achieved
+Nurul Ain,Kuala Lumpur,Mar,86265,89460,10,47,103.7,Achieved
+Nurul Ain,Kuala Lumpur,Apr,86265,100289,24,49,116.3,Exceeded
+Nurul Ain,Kuala Lumpur,May,86265,105096,32,44,121.8,Exceeded
+Nurul Ain,Kuala Lumpur,Jun,86265,70961,37,20,82.3,Below Target
+Nurul Ain,Kuala Lumpur,Jul,86265,65522,17,60,76.0,Below Target
+Nurul Ain,Kuala Lumpur,Aug,86265,70163,10,27,81.3,Below Target
+Nurul Ain,Kuala Lumpur,Sep,86265,84010,37,70,97.4,Achieved
+Nurul Ain,Kuala Lumpur,Oct,86265,68027,28,34,78.9,Below Target
+Nurul Ain,Kuala Lumpur,Nov,86265,61921,36,51,71.8,Below Target
+Nurul Ain,Kuala Lumpur,Dec,86265,85460,16,58,99.1,Achieved
+Zainudin Malik,Penang,Jan,117194,111108,21,78,94.8,Achieved
+Zainudin Malik,Penang,Feb,117194,120322,6,47,102.7,Achieved
+Zainudin Malik,Penang,Mar,117194,74539,36,52,63.6,Below Target
+Zainudin Malik,Penang,Apr,117194,122355,6,72,104.4,Achieved
+Zainudin Malik,Penang,May,117194,110469,36,25,94.3,Achieved
+Zainudin Malik,Penang,Jun,117194,90173,8,74,76.9,Below Target
+Zainudin Malik,Penang,Jul,117194,132796,21,57,113.3,Exceeded
+Zainudin Malik,Penang,Aug,117194,100487,38,25,85.7,Below Target
+Zainudin Malik,Penang,Sep,117194,103034,20,52,87.9,Below Target
+Zainudin Malik,Penang,Oct,117194,82680,10,35,70.5,Below Target
+Zainudin Malik,Penang,Nov,117194,73661,24,79,62.9,Below Target
+Zainudin Malik,Penang,Dec,117194,125900,23,45,107.4,Achieved
+Faizah Othman,Selangor,Jan,124131,118975,23,39,95.8,Achieved
+Faizah Othman,Selangor,Feb,124131,130538,37,59,105.2,Achieved
+Faizah Othman,Selangor,Mar,124131,108082,22,59,87.1,Below Target
+Faizah Othman,Selangor,Apr,124131,86428,32,76,69.6,Below Target
+Faizah Othman,Selangor,May,124131,84338,27,50,67.9,Below Target
+Faizah Othman,Selangor,Jun,124131,150712,39,26,121.4,Exceeded
+Faizah Othman,Selangor,Jul,124131,131825,30,67,106.2,Achieved
+Faizah Othman,Selangor,Aug,124131,122720,6,20,98.9,Achieved
+Faizah Othman,Selangor,Sep,124131,82568,16,24,66.5,Below Target
+Faizah Othman,Selangor,Oct,124131,152717,13,60,123.0,Exceeded
+Faizah Othman,Selangor,Nov,124131,104822,20,22,84.4,Below Target
+Faizah Othman,Selangor,Dec,124131,148886,37,43,119.9,Exceeded
+Khairul Azman,Johor,Jan,140263,167705,12,55,119.6,Exceeded
+Khairul Azman,Johor,Feb,140263,172381,24,54,122.9,Exceeded
+Khairul Azman,Johor,Mar,140263,120710,29,54,86.1,Below Target
+Khairul Azman,Johor,Apr,140263,179756,22,65,128.2,Exceeded
+Khairul Azman,Johor,May,140263,138034,39,35,98.4,Achieved
+Khairul Azman,Johor,Jun,140263,181797,37,23,129.6,Exceeded
+Khairul Azman,Johor,Jul,140263,107451,25,67,76.6,Below Target
+Khairul Azman,Johor,Aug,140263,157451,12,26,112.3,Exceeded
+Khairul Azman,Johor,Sep,140263,154942,37,67,110.5,Exceeded
+Khairul Azman,Johor,Oct,140263,93355,26,74,66.6,Below Target
+Khairul Azman,Johor,Nov,140263,108749,34,57,77.5,Below Target
+Khairul Azman,Johor,Dec,140263,180269,12,46,128.5,Exceeded
+Rohani Jusoh,Perak,Jan,96023,86812,25,49,90.4,Achieved
+Rohani Jusoh,Perak,Feb,96023,100975,37,24,105.2,Achieved
+Rohani Jusoh,Perak,Mar,96023,73085,23,23,76.1,Below Target
+Rohani Jusoh,Perak,Apr,96023,59248,21,63,61.7,Below Target
+Rohani Jusoh,Perak,May,96023,120827,33,65,125.8,Exceeded
+Rohani Jusoh,Perak,Jun,96023,119107,39,79,124.0,Exceeded
+Rohani Jusoh,Perak,Jul,96023,58652,28,48,61.1,Below Target
+Rohani Jusoh,Perak,Aug,96023,86394,35,54,90.0,Achieved
+Rohani Jusoh,Perak,Sep,96023,123507,25,51,128.6,Exceeded
+Rohani Jusoh,Perak,Oct,96023,114823,7,37,119.6,Exceeded
+Rohani Jusoh,Perak,Nov,96023,95039,35,73,99.0,Achieved
+Rohani Jusoh,Perak,Dec,96023,104398,28,69,108.7,Achieved
+Syafiq Nadzri,Kuala Lumpur,Jan,121090,124783,26,42,103.0,Achieved
+Syafiq Nadzri,Kuala Lumpur,Feb,121090,84527,31,61,69.8,Below Target
+Syafiq Nadzri,Kuala Lumpur,Mar,121090,147022,21,59,121.4,Exceeded
+Syafiq Nadzri,Kuala Lumpur,Apr,121090,131735,33,61,108.8,Achieved
+Syafiq Nadzri,Kuala Lumpur,May,121090,141257,39,69,116.7,Exceeded
+Syafiq Nadzri,Kuala Lumpur,Jun,121090,146149,17,79,120.7,Exceeded
+Syafiq Nadzri,Kuala Lumpur,Jul,121090,115996,24,20,95.8,Achieved
+Syafiq Nadzri,Kuala Lumpur,Aug,121090,78667,20,33,65.0,Below Target
+Syafiq Nadzri,Kuala Lumpur,Sep,121090,148093,27,34,122.3,Exceeded
+Syafiq Nadzri,Kuala Lumpur,Oct,121090,104489,6,51,86.3,Below Target
+Syafiq Nadzri,Kuala Lumpur,Nov,121090,121670,26,70,100.5,Achieved
+Syafiq Nadzri,Kuala Lumpur,Dec,121090,112119,26,77,92.6,Achieved
+Aina Liyana,Selangor,Jan,147221,177001,10,34,120.2,Exceeded
+Aina Liyana,Selangor,Feb,147221,125451,37,27,85.2,Below Target
+Aina Liyana,Selangor,Mar,147221,167684,9,58,113.9,Exceeded
+Aina Liyana,Selangor,Apr,147221,97128,36,71,66.0,Below Target
+Aina Liyana,Selangor,May,147221,130724,39,74,88.8,Below Target
+Aina Liyana,Selangor,Jun,147221,102590,20,32,69.7,Below Target
+Aina Liyana,Selangor,Jul,147221,188247,34,38,127.9,Exceeded
+Aina Liyana,Selangor,Aug,147221,170280,23,47,115.7,Exceeded
+Aina Liyana,Selangor,Sep,147221,165009,30,56,112.1,Exceeded
+Aina Liyana,Selangor,Oct,147221,107329,27,28,72.9,Below Target
+Aina Liyana,Selangor,Nov,147221,159285,5,77,108.2,Achieved
+Aina Liyana,Selangor,Dec,147221,182649,38,51,124.1,Exceeded
+Hasrul Nizam,Penang,Jan,144820,142569,29,59,98.4,Achieved
+Hasrul Nizam,Penang,Feb,144820,181637,5,35,125.4,Exceeded
+Hasrul Nizam,Penang,Mar,144820,139271,9,41,96.2,Achieved
+Hasrul Nizam,Penang,Apr,144820,160899,7,31,111.1,Exceeded
+Hasrul Nizam,Penang,May,144820,144273,26,76,99.6,Achieved
+Hasrul Nizam,Penang,Jun,144820,121549,32,24,83.9,Below Target
+Hasrul Nizam,Penang,Jul,144820,96437,34,65,66.6,Below Target
+Hasrul Nizam,Penang,Aug,144820,186188,9,31,128.6,Exceeded
+Hasrul Nizam,Penang,Sep,144820,88631,30,67,61.2,Below Target
+Hasrul Nizam,Penang,Oct,144820,168691,37,49,116.5,Exceeded
+Hasrul Nizam,Penang,Nov,144820,152762,14,73,105.5,Achieved
+Hasrul Nizam,Penang,Dec,144820,151273,38,71,104.5,Achieved
+Noraini Hamid,Johor,Jan,80769,69641,23,77,86.2,Below Target
+Noraini Hamid,Johor,Feb,80769,76789,9,64,95.1,Achieved
+Noraini Hamid,Johor,Mar,80769,57673,28,35,71.4,Below Target
+Noraini Hamid,Johor,Apr,80769,84782,32,51,105.0,Achieved
+Noraini Hamid,Johor,May,80769,101620,28,31,125.8,Exceeded
+Noraini Hamid,Johor,Jun,80769,70407,37,52,87.2,Below Target
+Noraini Hamid,Johor,Jul,80769,94325,16,22,116.8,Exceeded
+Noraini Hamid,Johor,Aug,80769,94846,14,62,117.4,Exceeded
+Noraini Hamid,Johor,Sep,80769,59531,17,31,73.7,Below Target
+Noraini Hamid,Johor,Oct,80769,54159,6,70,67.1,Below Target
+Noraini Hamid,Johor,Nov,80769,83416,27,36,103.3,Achieved
+Noraini Hamid,Johor,Dec,80769,85534,33,45,105.9,Achieved
+Firdaus Kamal,Perak,Jan,139735,150512,38,70,107.7,Achieved
+Firdaus Kamal,Perak,Feb,139735,111410,8,77,79.7,Below Target
+Firdaus Kamal,Perak,Mar,139735,151991,15,48,108.8,Achieved
+Firdaus Kamal,Perak,Apr,139735,87673,29,40,62.7,Below Target
+Firdaus Kamal,Perak,May,139735,178484,14,56,127.7,Exceeded
+Firdaus Kamal,Perak,Jun,139735,157262,39,68,112.5,Exceeded
+Firdaus Kamal,Perak,Jul,139735,155406,22,68,111.2,Exceeded
+Firdaus Kamal,Perak,Aug,139735,159785,28,42,114.3,Exceeded
+Firdaus Kamal,Perak,Sep,139735,174882,16,68,125.2,Exceeded
+Firdaus Kamal,Perak,Oct,139735,150339,27,44,107.6,Achieved
+Firdaus Kamal,Perak,Nov,139735,107143,34,36,76.7,Below Target
+Firdaus Kamal,Perak,Dec,139735,136105,24,67,97.4,Achieved
+Suraya Zainal,Kuala Lumpur,Jan,142955,124761,17,78,87.3,Below Target
+Suraya Zainal,Kuala Lumpur,Feb,142955,95778,16,60,67.0,Below Target
+Suraya Zainal,Kuala Lumpur,Mar,142955,170545,13,26,119.3,Exceeded
+Suraya Zainal,Kuala Lumpur,Apr,142955,181518,35,71,127.0,Exceeded
+Suraya Zainal,Kuala Lumpur,May,142955,143156,20,72,100.1,Achieved
+Suraya Zainal,Kuala Lumpur,Jun,142955,94949,16,44,66.4,Below Target
+Suraya Zainal,Kuala Lumpur,Jul,142955,141181,25,55,98.8,Achieved
+Suraya Zainal,Kuala Lumpur,Aug,142955,180457,20,76,126.2,Exceeded
+Suraya Zainal,Kuala Lumpur,Sep,142955,97127,18,50,67.9,Below Target
+Suraya Zainal,Kuala Lumpur,Oct,142955,91363,39,42,63.9,Below Target
+Suraya Zainal,Kuala Lumpur,Nov,142955,140401,15,37,98.2,Achieved
+Suraya Zainal,Kuala Lumpur,Dec,142955,182704,13,29,127.8,Exceeded
+Azri Hisham,Selangor,Jan,144925,171862,21,57,118.6,Exceeded
+Azri Hisham,Selangor,Feb,144925,95487,17,59,65.9,Below Target
+Azri Hisham,Selangor,Mar,144925,94336,31,77,65.1,Below Target
+Azri Hisham,Selangor,Apr,144925,101827,33,56,70.3,Below Target
+Azri Hisham,Selangor,May,144925,110615,12,67,76.3,Below Target
+Azri Hisham,Selangor,Jun,144925,174518,26,71,120.4,Exceeded
+Azri Hisham,Selangor,Jul,144925,110966,11,44,76.6,Below Target
+Azri Hisham,Selangor,Aug,144925,147000,10,79,101.4,Achieved
+Azri Hisham,Selangor,Sep,144925,95425,31,29,65.8,Below Target
+Azri Hisham,Selangor,Oct,144925,178902,7,64,123.4,Exceeded
+Azri Hisham,Selangor,Nov,144925,88106,32,77,60.8,Below Target
+Azri Hisham,Selangor,Dec,144925,162124,12,60,111.9,Exceeded
