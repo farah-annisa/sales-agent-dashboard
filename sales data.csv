@@ -1,0 +1,181 @@
+Agent,Region,Category,Month,Target (RM),Actual Sales (RM),Units Sold,New Clients,Client Visits,Achievement (%),Status
+Amira Zulaikha,Kuala Lumpur,Skincare,Jan,95795,71715,241,25,52,74.9,Below Target
+Amira Zulaikha,Kuala Lumpur,Skincare,Feb,95795,77878,71,29,68,81.3,Below Target
+Amira Zulaikha,Kuala Lumpur,Skincare,Mar,95795,92666,219,32,79,96.7,Achieved
+Amira Zulaikha,Kuala Lumpur,Skincare,Apr,95795,82043,239,7,56,85.6,Below Target
+Amira Zulaikha,Kuala Lumpur,Skincare,May,95795,98216,70,13,58,102.5,Achieved
+Amira Zulaikha,Kuala Lumpur,Skincare,Jun,95795,58366,138,18,69,60.9,Below Target
+Amira Zulaikha,Kuala Lumpur,Skincare,Jul,95795,83321,139,6,39,87.0,Below Target
+Amira Zulaikha,Kuala Lumpur,Skincare,Aug,95795,73639,237,11,63,76.9,Below Target
+Amira Zulaikha,Kuala Lumpur,Skincare,Sep,95795,90681,224,39,33,94.7,Achieved
+Amira Zulaikha,Kuala Lumpur,Skincare,Oct,95795,83700,99,8,21,87.4,Below Target
+Amira Zulaikha,Kuala Lumpur,Skincare,Nov,95795,85986,103,8,73,89.8,Below Target
+Amira Zulaikha,Kuala Lumpur,Skincare,Dec,95795,59576,195,30,63,62.2,Below Target
+Siti Norzah,Selangor,Makeup,Jan,80860,101693,239,18,50,125.8,Exceeded
+Siti Norzah,Selangor,Makeup,Feb,80860,100695,249,18,42,124.5,Exceeded
+Siti Norzah,Selangor,Makeup,Mar,80860,77996,239,25,35,96.5,Achieved
+Siti Norzah,Selangor,Makeup,Apr,80860,90815,160,28,45,112.3,Exceeded
+Siti Norzah,Selangor,Makeup,May,80860,103151,237,33,34,127.6,Exceeded
+Siti Norzah,Selangor,Makeup,Jun,80860,57870,138,11,28,71.6,Below Target
+Siti Norzah,Selangor,Makeup,Jul,80860,92226,285,12,43,114.1,Exceeded
+Siti Norzah,Selangor,Makeup,Aug,80860,49312,292,21,27,61.0,Below Target
+Siti Norzah,Selangor,Makeup,Sep,80860,89779,82,9,61,111.0,Exceeded
+Siti Norzah,Selangor,Makeup,Oct,80860,68805,90,32,26,85.1,Below Target
+Siti Norzah,Selangor,Makeup,Nov,80860,96629,61,38,52,119.5,Exceeded
+Siti Norzah,Selangor,Makeup,Dec,80860,52113,200,28,56,64.4,Below Target
+Nurul Hafizah,Johor,Fragrance,Jan,134886,149821,153,26,46,111.1,Exceeded
+Nurul Hafizah,Johor,Fragrance,Feb,134886,133924,276,18,22,99.3,Achieved
+Nurul Hafizah,Johor,Fragrance,Mar,134886,152765,267,18,58,113.3,Exceeded
+Nurul Hafizah,Johor,Fragrance,Apr,134886,84749,256,19,45,62.8,Below Target
+Nurul Hafizah,Johor,Fragrance,May,134886,83331,254,36,58,61.8,Below Target
+Nurul Hafizah,Johor,Fragrance,Jun,134886,125816,145,8,49,93.3,Achieved
+Nurul Hafizah,Johor,Fragrance,Jul,134886,94087,280,19,62,69.8,Below Target
+Nurul Hafizah,Johor,Fragrance,Aug,134886,100104,62,36,26,74.2,Below Target
+Nurul Hafizah,Johor,Fragrance,Sep,134886,108289,135,32,21,80.3,Below Target
+Nurul Hafizah,Johor,Fragrance,Oct,134886,139883,111,10,47,103.7,Achieved
+Nurul Hafizah,Johor,Fragrance,Nov,134886,156814,93,24,49,116.3,Exceeded
+Nurul Hafizah,Johor,Fragrance,Dec,134886,164331,177,32,44,121.8,Exceeded
+Farah Liyana,Kuala Lumpur,Skincare,Jan,86265,70961,274,5,76,82.3,Below Target
+Farah Liyana,Kuala Lumpur,Skincare,Feb,86265,90870,170,17,60,105.3,Achieved
+Farah Liyana,Kuala Lumpur,Skincare,Mar,86265,70163,247,12,46,81.3,Below Target
+Farah Liyana,Kuala Lumpur,Skincare,Apr,86265,76964,214,37,70,89.2,Below Target
+Farah Liyana,Kuala Lumpur,Skincare,May,86265,68027,201,19,78,78.9,Below Target
+Farah Liyana,Kuala Lumpur,Skincare,Jun,86265,71275,145,28,60,82.6,Below Target
+Farah Liyana,Kuala Lumpur,Skincare,Jul,86265,76144,111,16,58,88.3,Below Target
+Farah Liyana,Kuala Lumpur,Skincare,Aug,86265,81785,162,21,78,94.8,Achieved
+Farah Liyana,Kuala Lumpur,Skincare,Sep,86265,88567,179,32,73,102.7,Achieved
+Farah Liyana,Kuala Lumpur,Skincare,Oct,86265,53754,273,37,20,62.3,Below Target
+Farah Liyana,Kuala Lumpur,Skincare,Nov,86265,66225,179,30,51,76.8,Below Target
+Farah Liyana,Kuala Lumpur,Skincare,Dec,86265,85145,296,8,74,98.7,Achieved
+Zainab Malik,Penang,Makeup,Jan,117194,132796,172,21,57,113.3,Exceeded
+Zainab Malik,Penang,Makeup,Feb,117194,100487,165,38,25,85.7,Below Target
+Zainab Malik,Penang,Makeup,Mar,117194,103034,289,20,52,87.9,Below Target
+Zainab Malik,Penang,Makeup,Apr,117194,82680,236,10,35,70.5,Below Target
+Zainab Malik,Penang,Makeup,May,117194,73661,197,23,45,62.9,Below Target
+Zainab Malik,Penang,Makeup,Jun,117194,112326,196,24,51,95.8,Achieved
+Zainab Malik,Penang,Makeup,Jul,117194,78206,282,37,59,66.7,Below Target
+Zainab Malik,Penang,Makeup,Aug,117194,102042,131,5,30,87.1,Below Target
+Zainab Malik,Penang,Makeup,Sep,117194,98296,266,27,50,83.9,Below Target
+Zainab Malik,Penang,Makeup,Oct,117194,142289,148,11,79,121.4,Exceeded
+Zainab Malik,Penang,Makeup,Nov,117194,84668,161,6,20,72.2,Below Target
+Zainab Malik,Penang,Makeup,Dec,117194,77954,189,9,56,66.5,Below Target
+Faizah Othman,Selangor,Haircare,Jan,124131,151172,296,13,60,121.8,Exceeded
+Faizah Othman,Selangor,Haircare,Feb,124131,104822,97,20,22,84.4,Below Target
+Faizah Othman,Selangor,Haircare,Mar,124131,148886,103,37,43,119.9,Exceeded
+Faizah Othman,Selangor,Haircare,Apr,124131,148417,162,12,55,119.6,Exceeded
+Faizah Othman,Selangor,Haircare,May,124131,152555,133,39,67,122.9,Exceeded
+Faizah Othman,Selangor,Haircare,Jun,124131,83295,148,29,48,67.1,Below Target
+Faizah Othman,Selangor,Haircare,Jul,124131,99148,159,22,21,79.9,Below Target
+Faizah Othman,Selangor,Haircare,Aug,124131,134598,257,37,23,108.4,Achieved
+Faizah Othman,Selangor,Haircare,Sep,124131,95093,70,24,75,76.6,Below Target
+Faizah Othman,Selangor,Haircare,Oct,124131,130926,184,7,36,105.5,Achieved
+Faizah Othman,Selangor,Haircare,Nov,124131,101246,225,16,78,81.6,Below Target
+Faizah Othman,Selangor,Haircare,Dec,124131,106430,168,26,65,85.7,Below Target
+Khairunnisa Ahmad,Johor,Makeup,Jan,140263,142073,279,12,46,101.3,Achieved
+Khairunnisa Ahmad,Johor,Makeup,Feb,140263,126808,70,34,52,90.4,Achieved
+Khairunnisa Ahmad,Johor,Makeup,Mar,140263,140800,241,37,24,100.4,Achieved
+Khairunnisa Ahmad,Johor,Makeup,Apr,140263,106758,97,23,23,76.1,Below Target
+Khairunnisa Ahmad,Johor,Makeup,May,140263,86545,98,21,63,61.7,Below Target
+Khairunnisa Ahmad,Johor,Makeup,Jun,140263,176495,270,10,54,125.8,Exceeded
+Khairunnisa Ahmad,Johor,Makeup,Jul,140263,157571,86,28,48,112.3,Exceeded
+Khairunnisa Ahmad,Johor,Makeup,Aug,140263,126198,230,35,54,90.0,Achieved
+Khairunnisa Ahmad,Johor,Makeup,Sep,140263,180410,165,25,51,128.6,Exceeded
+Khairunnisa Ahmad,Johor,Makeup,Oct,140263,167725,116,22,44,119.6,Exceeded
+Khairunnisa Ahmad,Johor,Makeup,Nov,140263,122910,103,7,59,87.6,Below Target
+Khairunnisa Ahmad,Johor,Makeup,Dec,140263,91071,163,36,66,64.9,Below Target
+Rohani Jusoh,Perak,Skincare,Jan,96023,124161,243,31,61,129.3,Exceeded
+Rohani Jusoh,Perak,Skincare,Feb,96023,116587,66,37,28,121.4,Exceeded
+Rohani Jusoh,Perak,Skincare,Mar,96023,104832,225,33,61,109.2,Achieved
+Rohani Jusoh,Perak,Skincare,Apr,96023,112015,148,29,43,116.7,Exceeded
+Rohani Jusoh,Perak,Skincare,May,96023,118998,299,11,76,123.9,Exceeded
+Rohani Jusoh,Perak,Skincare,Jun,96023,99818,69,5,27,104.0,Achieved
+Rohani Jusoh,Perak,Skincare,Jul,96023,104797,193,18,31,109.1,Achieved
+Rohani Jusoh,Perak,Skincare,Aug,96023,117208,192,32,53,122.1,Exceeded
+Rohani Jusoh,Perak,Skincare,Sep,96023,63930,264,26,70,66.6,Below Target
+Rohani Jusoh,Perak,Skincare,Oct,96023,88909,112,26,77,92.6,Achieved
+Rohani Jusoh,Perak,Skincare,Nov,96023,115446,98,10,34,120.2,Exceeded
+Rohani Jusoh,Perak,Skincare,Dec,96023,81824,237,37,27,85.2,Below Target
+Syafiqah Nadzri,Kuala Lumpur,Fragrance,Jan,121090,137920,285,9,58,113.9,Exceeded
+Syafiqah Nadzri,Kuala Lumpur,Fragrance,Feb,121090,79888,158,36,71,66.0,Below Target
+Syafiqah Nadzri,Kuala Lumpur,Fragrance,Mar,121090,107521,148,20,32,88.8,Below Target
+Syafiqah Nadzri,Kuala Lumpur,Fragrance,Apr,121090,154834,155,34,38,127.9,Exceeded
+Syafiqah Nadzri,Kuala Lumpur,Fragrance,May,121090,140056,112,23,47,115.7,Exceeded
+Syafiqah Nadzri,Kuala Lumpur,Fragrance,Jun,121090,135721,139,30,72,112.1,Exceeded
+Syafiqah Nadzri,Kuala Lumpur,Fragrance,Jul,121090,79509,176,13,31,65.7,Below Target
+Syafiqah Nadzri,Kuala Lumpur,Fragrance,Aug,121090,107318,107,5,66,88.6,Below Target
+Syafiqah Nadzri,Kuala Lumpur,Fragrance,Sep,121090,93865,175,29,59,77.5,Below Target
+Syafiqah Nadzri,Kuala Lumpur,Fragrance,Oct,121090,151874,178,20,58,125.4,Exceeded
+Syafiqah Nadzri,Kuala Lumpur,Fragrance,Nov,121090,128352,118,26,48,106.0,Achieved
+Syafiqah Nadzri,Kuala Lumpur,Fragrance,Dec,121090,108220,125,30,35,89.4,Below Target
+Aina Liyana,Selangor,Haircare,Jan,147221,104681,135,33,33,71.1,Below Target
+Aina Liyana,Selangor,Haircare,Feb,147221,97792,96,34,65,66.4,Below Target
+Aina Liyana,Selangor,Haircare,Mar,147221,189275,246,16,35,128.6,Exceeded
+Aina Liyana,Selangor,Haircare,Apr,147221,98414,225,25,58,66.8,Below Target
+Aina Liyana,Selangor,Haircare,May,147221,124020,271,27,77,84.2,Below Target
+Aina Liyana,Selangor,Haircare,Jun,147221,151798,118,38,71,103.1,Achieved
+Aina Liyana,Selangor,Haircare,Jul,147221,126938,299,23,77,86.2,Below Target
+Aina Liyana,Selangor,Haircare,Aug,147221,139967,297,9,64,95.1,Achieved
+Aina Liyana,Selangor,Haircare,Sep,147221,105123,73,20,74,71.4,Below Target
+Aina Liyana,Selangor,Haircare,Oct,147221,185642,269,36,46,126.1,Exceeded
+Aina Liyana,Selangor,Haircare,Nov,147221,170874,189,39,79,116.1,Exceeded
+Aina Liyana,Selangor,Haircare,Dec,147221,101575,238,16,22,69.0,Below Target
+Haslinah Nizam,Penang,Skincare,Jan,144820,170061,217,14,62,117.4,Exceeded
+Haslinah Nizam,Penang,Skincare,Feb,144820,106740,190,16,50,73.7,Below Target
+Haslinah Nizam,Penang,Skincare,Mar,144820,125136,292,39,42,86.4,Below Target
+Haslinah Nizam,Penang,Skincare,Apr,144820,94108,57,33,45,65.0,Below Target
+Haslinah Nizam,Penang,Skincare,May,144820,155989,211,11,23,107.7,Achieved
+Haslinah Nizam,Penang,Skincare,Jun,144820,157133,163,15,48,108.5,Achieved
+Haslinah Nizam,Penang,Skincare,Jul,144820,90864,266,25,76,62.7,Below Target
+Haslinah Nizam,Penang,Skincare,Aug,144820,142442,150,13,43,98.4,Achieved
+Haslinah Nizam,Penang,Skincare,Sep,144820,168684,226,39,67,116.5,Exceeded
+Haslinah Nizam,Penang,Skincare,Oct,144820,99836,290,36,43,68.9,Below Target
+Haslinah Nizam,Penang,Skincare,Nov,144820,174795,273,16,68,120.7,Exceeded
+Haslinah Nizam,Penang,Skincare,Dec,144820,155810,72,29,54,107.6,Achieved
+Noraini Hamid,Johor,Makeup,Jan,80769,54291,66,24,67,67.2,Below Target
+Noraini Hamid,Johor,Makeup,Feb,80769,70489,190,23,68,87.3,Below Target
+Noraini Hamid,Johor,Makeup,Mar,80769,51485,238,23,31,63.7,Below Target
+Noraini Hamid,Johor,Makeup,Apr,80769,68527,77,18,50,84.8,Below Target
+Noraini Hamid,Johor,Makeup,May,80769,102207,132,20,72,126.5,Exceeded
+Noraini Hamid,Johor,Makeup,Jun,80769,53646,189,29,71,66.4,Below Target
+Noraini Hamid,Johor,Makeup,Jul,80769,86484,277,27,35,107.1,Achieved
+Noraini Hamid,Johor,Makeup,Aug,80769,93105,158,18,50,115.3,Exceeded
+Noraini Hamid,Johor,Makeup,Sep,80769,51620,212,27,48,63.9,Below Target
+Noraini Hamid,Johor,Makeup,Oct,80769,68301,195,16,28,84.6,Below Target
+Noraini Hamid,Johor,Makeup,Nov,80769,91515,285,21,57,113.3,Exceeded
+Noraini Hamid,Johor,Makeup,Dec,80769,53216,190,13,69,65.9,Below Target
+Firdaus Kamal,Perak,Haircare,Jan,139735,171081,243,9,48,122.4,Exceeded
+Firdaus Kamal,Perak,Haircare,Feb,139735,92139,132,12,67,65.9,Below Target
+Firdaus Kamal,Perak,Haircare,Mar,139735,168268,135,21,26,120.4,Exceeded
+Firdaus Kamal,Perak,Haircare,Apr,139735,180286,181,10,79,129.0,Exceeded
+Firdaus Kamal,Perak,Haircare,May,139735,92008,238,31,29,65.8,Below Target
+Firdaus Kamal,Perak,Haircare,Jun,139735,172495,88,7,64,123.4,Exceeded
+Firdaus Kamal,Perak,Haircare,Jul,139735,84951,269,24,47,60.8,Below Target
+Firdaus Kamal,Perak,Haircare,Aug,139735,158883,176,5,22,113.7,Exceeded
+Firdaus Kamal,Perak,Haircare,Sep,139735,140902,239,29,75,100.8,Achieved
+Firdaus Kamal,Perak,Haircare,Oct,139735,135523,166,10,77,97.0,Achieved
+Firdaus Kamal,Perak,Haircare,Nov,139735,85029,209,25,35,60.9,Below Target
+Firdaus Kamal,Perak,Haircare,Dec,139735,135457,252,39,38,96.9,Achieved
+Suraya Zainal,Kuala Lumpur,Fragrance,Jan,142955,182769,195,18,34,127.9,Exceeded
+Suraya Zainal,Kuala Lumpur,Fragrance,Feb,142955,131258,166,7,35,91.8,Achieved
+Suraya Zainal,Kuala Lumpur,Fragrance,Mar,142955,159533,252,16,29,111.6,Exceeded
+Suraya Zainal,Kuala Lumpur,Fragrance,Apr,142955,180879,249,16,43,126.5,Exceeded
+Suraya Zainal,Kuala Lumpur,Fragrance,May,142955,147828,57,32,55,103.4,Achieved
+Suraya Zainal,Kuala Lumpur,Fragrance,Jun,142955,132174,235,32,47,92.5,Achieved
+Suraya Zainal,Kuala Lumpur,Fragrance,Jul,142955,121832,277,31,73,85.2,Below Target
+Suraya Zainal,Kuala Lumpur,Fragrance,Aug,142955,89006,250,37,72,62.3,Below Target
+Suraya Zainal,Kuala Lumpur,Fragrance,Sep,142955,167208,269,33,32,117.0,Exceeded
+Suraya Zainal,Kuala Lumpur,Fragrance,Oct,142955,176928,183,22,70,123.8,Exceeded
+Suraya Zainal,Kuala Lumpur,Fragrance,Nov,142955,158394,96,29,21,110.8,Exceeded
+Suraya Zainal,Kuala Lumpur,Fragrance,Dec,142955,94053,79,9,74,65.8,Below Target
+Azri Hisham,Selangor,Skincare,Jan,144925,128675,167,5,37,88.8,Below Target
+Azri Hisham,Selangor,Skincare,Feb,144925,187111,226,15,40,129.1,Exceeded
+Azri Hisham,Selangor,Skincare,Mar,144925,162997,266,26,78,112.5,Exceeded
+Azri Hisham,Selangor,Skincare,Apr,144925,172385,254,37,53,118.9,Exceeded
+Azri Hisham,Selangor,Skincare,May,144925,90690,178,25,67,62.6,Below Target
+Azri Hisham,Selangor,Skincare,Jun,144925,94599,269,21,24,65.3,Below Target
+Azri Hisham,Selangor,Skincare,Jul,144925,188373,151,7,72,130.0,Exceeded
+Azri Hisham,Selangor,Skincare,Aug,144925,146316,102,14,29,101.0,Achieved
+Azri Hisham,Selangor,Skincare,Sep,144925,125286,134,18,28,86.4,Below Target
+Azri Hisham,Selangor,Skincare,Oct,144925,100057,100,17,23,69.0,Below Target
+Azri Hisham,Selangor,Skincare,Nov,144925,110150,162,36,53,76.0,Below Target
+Azri Hisham,Selangor,Skincare,Dec,144925,123289,121,30,77,85.1,Below Target
